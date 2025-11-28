@@ -1,13 +1,13 @@
 # Unity generated
-XR/Library/
-XR/Temp/
-XR/obj/
-XR/Logs/
-XR/UserSettings/
-XR/Build/
-XR/Builds/
-XR/Artifacts/
-XR/PackageCache/
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+Build/
+Builds/
+Artifacts/
+PackageCache/
 
 # IDE
 *.csproj
