@@ -1,69 +1,22 @@
-# =====================
-# UNITY GITIGNORE FULL
-# =====================
+# Unity generated
+XR/Library/
+XR/Temp/
+XR/obj/
+XR/Logs/
+XR/UserSettings/
+XR/Build/
+XR/Builds/
+XR/Artifacts/
+XR/PackageCache/
 
-# --- Unity generated files ---
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Mm]emoryCaptures/
-Artifacts/
-
-# --- Project Settings we keep ---
-!ProjectSettings/ProjectSettings.asset
-!ProjectSettings/TagManager.asset
-
-# --- Ignore only Unity Connect Settings ---
-ProjectSettings/UnityConnectSettings.asset
-
-# --- Asset Store Tools ---
-[Aa]ssets/AssetStoreTools*
-
-# --- TextMesh Pro files (auto generated) ---
-[Aa]ssets/TextMesh*/Resources/*.asset
-
-# --- Visual Studio / Rider ---
+# IDE
 *.csproj
-*.unityproj
 *.sln
-*.suo
-*.tmp
+*.unityproj
 *.user
-*.userprefs
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.mdb
-*.opendb
-*.VC.db
-
-# --- VS Code ---
+*.tmp
 .vscode/
 
-# --- Operating System Files ---
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# --- Build folders ---
-[Bb]in/
-[Dd]ebug*/
-[Rr]elease*/
-
-# --- Crash files ---
-*.stacktrace
-
-# --- Unity Packages Cache ---
-Packages/com.unity.*/*
-!Packages/manifest.json
-!Packages/packages-lock.json
-
-# --- Addressables ---
-[Aa]ssets/AddressableAssetsData/*/bin/
-
-# --- StreamingAssets caches ---
-StreamingAssets/aa/
+# Misc
+*.mdb
+*.pdb
