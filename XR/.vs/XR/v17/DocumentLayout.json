@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CPT Trevano\\4 anno 25-26\\Unity\\XR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D51E24CC-74D0-6220-65D5-9AE23517D1A3}|Assembly-CSharp.csproj|e:\\cpt trevano\\4 anno 25-26\\unity\\xr\\assets\\opendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51E24CC-74D0-6220-65D5-9AE23517D1A3}|Assembly-CSharp.csproj|solutionrelative:assets\\opendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51E24CC-74D0-6220-65D5-9AE23517D1A3}|Assembly-CSharp.csproj|e:\\cpt trevano\\4 anno 25-26\\unity\\xr\\assets\\destroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51E24CC-74D0-6220-65D5-9AE23517D1A3}|Assembly-CSharp.csproj|solutionrelative:assets\\destroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "destroy.cs",
+              "DocumentMoniker": "E:\\CPT Trevano\\4 anno 25-26\\Unity\\XR\\Assets\\destroy.cs",
+              "RelativeDocumentMoniker": "Assets\\destroy.cs",
+              "ToolTip": "E:\\CPT Trevano\\4 anno 25-26\\Unity\\XR\\Assets\\destroy.cs",
+              "RelativeToolTip": "Assets\\destroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:58:59.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "openDoor.cs",
+              "DocumentMoniker": "E:\\CPT Trevano\\4 anno 25-26\\Unity\\XR\\Assets\\openDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\openDoor.cs",
+              "ToolTip": "E:\\CPT Trevano\\4 anno 25-26\\Unity\\XR\\Assets\\openDoor.cs",
+              "RelativeToolTip": "Assets\\openDoor.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:02:24.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
